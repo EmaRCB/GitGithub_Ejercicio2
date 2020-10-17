@@ -1,8 +1,8 @@
-# Hola! Me llamo *John Doe*
+# Hola! Me llamo *Emanuel Chávez*
 
-- A mi me gusta jugar videojuegos como Stardew Valley y Hollow Knight!
+- A mi me gustan las artes digitales, la cinematografía y la moda
 
-- Me gustaría aprender acerca de *desarrollo web* y d*esarrollo de aplicaciones*
+- Me gustaría aprender acerca de *programación web* y *desarrollo de aplicaciones*
 
-> Mi materia favorita es *Fundamentos de Ingeniería de Software*
+> Mi materia favorita es *Algoritmia*
 
